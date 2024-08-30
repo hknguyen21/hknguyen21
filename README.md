@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hknguyen21
+- 👋 Hi, I’m Khanh H. Nguyen
 - 👀 I’m interested in building stuff
 - 🌱 I’m currently learning CAD and Control Systems
 - 💞️ I’m looking to collaborate on Robotics and Mechatronics Projects
